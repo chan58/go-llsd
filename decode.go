@@ -68,6 +68,10 @@ type Scalar struct {
 	Attr map[string]string
 }
 
+type Raw struct {
+	Data []byte
+}
+
 type UUID [16]byte
 type Key string
 type URL string
