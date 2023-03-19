@@ -1,3 +1,3 @@
-module github.com/bennettgoble/go-llsd
+module github.com/chan58/go-llsd
 
-go 1.18
+go 1.19
